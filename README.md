@@ -17,11 +17,13 @@ An AI-powered full-stack application that scrapes web content, analyzes it using
 
 | Dashboard View | Analysis Results |
 | :---: | :---: |
-| ![Dashboard](./Dashboard.png) | *(Add Analysis screenshot here)* |
+![Dashboard](https://github.com/user-attachments/assets/9d611adb-8a25-4670-ab60-ad965dce0c7e)
+
 
 | History & Queues | Profile Management |
 | :---: | :---: |
-| ![History](./History.png) | *(Add Profile screenshot here)* |
+![History](https://github.com/user-attachments/assets/841045a6-60ac-4b65-87d9-2488408724a1)
+
 
 ## �️ Tech Stack
 
